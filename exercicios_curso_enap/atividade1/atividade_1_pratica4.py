@@ -82,6 +82,8 @@ total_receber = salario_fixo + comissao
 # Exibição do resultado
 print(f"O total a receber no final do mês para o vendedor {nome_vendedor} é: R$ {total_receber:.2f}")   
 
+#Testando o comando GIT revert  
+
 
 
 
